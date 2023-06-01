@@ -1,8 +1,12 @@
+<div align="center">
+  
 # Artifact Bunker
 
 ![](https://img.shields.io/badge/Points-150-brightgreen)
 ![](https://img.shields.io/badge/Solves-22-blue)
 ![](https://img.shields.io/badge/Category-misc%3f-orange)
+  
+</div>
 
 ## Description
 
